@@ -13,7 +13,7 @@
 ## Para ler a entrada de vídeo de um arquivo:
 
 ```
-python crowdcontrol.py --input videos/example_01.mp4 -output output/output_01.avi
+python crowdcontrol.py --input videos/example_01.mp4 --output output/output_01.avi
 ```
 
 ##  Para ler a entrada de vídeo de uma webcam:
