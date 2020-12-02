@@ -151,3 +151,4 @@ dmypy.json
 *.mp4
 *.avi
 .vscode
+.idea
